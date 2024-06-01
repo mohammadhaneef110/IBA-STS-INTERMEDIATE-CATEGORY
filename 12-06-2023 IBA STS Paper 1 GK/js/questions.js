@@ -147,7 +147,7 @@ let questions = [
   },
     {
     numb: 14,
-    question: "The Land of Kangaroos:",
+    question: "The Land of Kangaroo:",
     answer: "Australia",
     options: [
       "Brazil", 
